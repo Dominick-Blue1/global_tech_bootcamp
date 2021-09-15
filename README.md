@@ -6,7 +6,7 @@
 
 - <img src="Assets/html5.png" alt="HTML5" width="100"/>
 - <img src="Assets/css3.png" alt="CSS3" width="120"/>
-- <img src="Assets/javascript.png" alt="CSS3" width="120"/>
+- <img src="Assets/javascript.png" alt="Javascript" width="120"/>
 
 
 
