@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Foster A Pet</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header>
+        <h1>Sign Up to Foster a Pet</h1>
+        <!-- Available Pets Table-->
+        <table>
+            <thead>
+                <tr>
+                    <td colspan="4">Available Pets</td>
+                </tr>
+                
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Name</td>
+                    <td>Age</td>
+                    <td>Breed</td>
+                    <td>Photo</td>
+                </tr>
+                <tr>
+                    <td>Benny</td>
+                    <td>2</td>
+                    <td>Golden Retreiver</td>
+                    <td><a href="https://imgur.com/hC6tqtp" id="pet"><img src="https://i.imgur.com/hC6tqtpm.jpg" title="source: imgur.com" class="pet"/></a></td>
+                </tr>
+                <tr>
+                    <td>Felix</td>
+                    <td>5</td>
+                    <td>Orange Tabby</td>
+                    <td><a href="https://imgur.com/tdgkVES" id="pet"><img src="https://i.imgur.com/tdgkVESm.jpg" title="source: imgur.com" class="pet"/></a></td>
+                </tr>
+                <tr>
+                    <td>Cooper</td>
+                    <td>8</td>
+                    <td>German Shepherd</td>
+                    <td><a href="https://imgur.com/g109yQO" id="pet"><img src="https://i.imgur.com/g109yQOm.jpg" title="source: imgur.com" class="pet"/></a></td>
+                </tr>
+                <tr>
+                    <td>Anna</td>
+                    <td>3</td>
+                    <td>Long-Haired Dachshund</td>
+                    <td><a href="https://imgur.com/UQbzjwz" id="pet"><img src="https://i.imgur.com/UQbzjwzm.jpg" title="source: imgur.com" class="pet"/></a></td>
+                </tr>
+            </tbody>
+        </table>
+
+      <img src="assets/dog.png" alt="Cute Dog Looking Over Form" width="40%">
+    </header>
+
+    <form action="">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="full-name">
+        <label for="dob">Date of Birth</label>
+        <input type="date" id="dob" name="date-of-birth">
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="example@domain.com" name="email">
+        <label for="pw">Password</label>
+        <input type="password" id="pw" required name="password">
+        <label for="num-pets">Number of Pets</label>
+        <input type="number" id="num-pets" min="0" name="num-pets">
+        <h4>Have you fostered before?</h4>
+        <label for="yes">
+            <input type="radio" id="yes" name="prev-exp">Yes</label>
+            <label for="yes">
+            <input type="radio" id="no" name="prev-exp">No</input>
+        </label>
+        <h4>Which of these apply to your home?</h4>
+        <label for="apartment">Apartment</label>
+        <input type="checkbox" id="apartment" name="apartment">
+        <label for="">Children</label>
+        <input type="checkbox" id="children" name="children">
+        <label for="">Yard</label>
+        <input type="checkbox" id="yard" name="yard">
+        <input type="submit" value="Sign Up">
+
+
+    </form>
+  </body>
+</html>
