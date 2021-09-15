@@ -4,7 +4,7 @@
 ## Focused On
 
 
-<img src="Assets/pylogo.png" alt="drawing" width="200"/>
+<img src="Assets/pylogo.png" alt="drawing" width="100"/>
 
 
 
