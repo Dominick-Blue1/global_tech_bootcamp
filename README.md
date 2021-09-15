@@ -3,5 +3,5 @@
 
 ## Focused On
 
-### ![This is an image](https://imgur.com/a/BS2m9zK)
+### ![This is an image](https://imgur.com/WYpBk1T)
 ### CSS3
