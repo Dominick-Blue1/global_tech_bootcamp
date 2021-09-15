@@ -3,5 +3,5 @@
 
 ## Focused On
 
-### ![This is an image](Assets/webdev.jpeg)
+### ![This is an image](Assets/png-clipart-javascript-logo-html-javascript-logo-angle-text.png)
 ### CSS3
