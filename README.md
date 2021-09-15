@@ -3,5 +3,5 @@
 
 ## Focused On
 
-### ![This is an image](Assets/png-clipart-javascript-logo-html-javascript-logo-angle-text.png)
+### ![This is an image](Module-8-11-Project-Milestone-1-Hero-and-Miss-justindblue (1)/img/html5.png)
 ### CSS3
