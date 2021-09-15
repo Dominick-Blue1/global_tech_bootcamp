@@ -3,5 +3,7 @@
 
 ## Focused On
 
-### ![This is an image](Assets/pylogo.png)
+- ![Python Programming Language Logo](Assets/pylogo.png = 250x250)
+
+
 ### CSS3
