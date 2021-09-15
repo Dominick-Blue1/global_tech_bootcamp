@@ -4,8 +4,9 @@
 ## Focused On
 
 
-<img src="Assets/pylogo.png" alt="drawing" width="100"/>
-
+- <img src="Assets/html5.png" alt="HTML5" width="100"/>
+- <img src="Assets/css3.png" alt="CSS3" width="100"/>
+- 
 
 
 
