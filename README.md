@@ -3,7 +3,7 @@
 
 ## Focused On
 
-![](Assets/pylogo.png | 250x250)
+![](Assets/pylogo.png)
 
 
 
