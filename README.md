@@ -3,5 +3,5 @@
 
 ## Focused On
 
-### ![This is an image](/img/html5.png)
+### ![This is an image](Assets/pylogo.png)
 ### CSS3
