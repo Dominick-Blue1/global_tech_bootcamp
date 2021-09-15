@@ -3,5 +3,5 @@
 
 ## Focused On
 
-### ![This is an image](Assets/html5.png)
+### ![This is an image](Assets/webdev.jpeg)
 ### CSS3
